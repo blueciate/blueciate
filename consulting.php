@@ -40,7 +40,7 @@ include('head.php');
                     <aside class="g lg-twelfths md-one-whole" id="first">
                         <h3>Consulting</h3>
                         <p style="max-width: 1200px;">
-                            By having customer information on-hand in the form of wearable devices, and being able to
+                            CMR Consult by having customer information on-hand in the form of wearable devices, and being able to
                             sense the location of customers, wearable devices present a unique opportunity to quickly
                             process an individual’s likely scenario (where they are shopping), understand their recent
                             purchase history, and combine this information with other data, such as their checking
